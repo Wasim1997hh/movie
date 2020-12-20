@@ -1,0 +1,21 @@
+.container{
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+
+    
+}
+.raw {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 100%;
+    height: auto;
+}
+.raw img {
+    width: 200px;
+    height: auto;
+    padding: 25px;
+    text-align: center;
+    float: left;
+}
